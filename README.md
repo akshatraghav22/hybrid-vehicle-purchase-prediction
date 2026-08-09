@@ -4,7 +4,7 @@
 
 Try the working web application:
 
-👉 **[Hybrid Vehicle Purchase Prediction – Live Demo](https://hybrid-predict-pro.lovable.app/)**
+👉 **[Hybrid Vehicle Purchase Prediction – Live Demo]([https://hybrid-predict-pro.lovable.app/](https://akshatraghav22.github.io/hybrid-vehicle-purchase-prediction/))**
 
 Enter customer details such as Age, Education, Income and Vehicle Ownership to receive a hybrid vehicle purchase prediction.
 
