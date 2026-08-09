@@ -12,10 +12,6 @@ A Machine Learning web application that predicts whether a customer is likely to
 
 The project was developed around a Tata Motors business problem: identifying potential customers for a new hybrid vehicle launch and supporting targeted marketing and sales decisions.
 
-![Hybrid Vehicle Purchase Prediction Dashboard](screenshots/dashboard.png)
-
-### 🟢 Potential Buyer Prediction
-
 ![Potential Buyer Prediction](screenshots/prediction-potential-buyer.png)
 
 ### ⚪ Not Immediate Buyer Prediction
