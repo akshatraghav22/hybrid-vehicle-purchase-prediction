@@ -12,6 +12,16 @@ A Machine Learning web application that predicts whether a customer is likely to
 
 The project was developed around a Tata Motors business problem: identifying potential customers for a new hybrid vehicle launch and supporting targeted marketing and sales decisions.
 
+![Hybrid Vehicle Purchase Prediction Dashboard](screenshots/dashboard.png)
+
+### 🟢 Potential Buyer Prediction
+
+![Potential Buyer Prediction](screenshots/prediction-potential-buyer.png)
+
+### ⚪ Not Immediate Buyer Prediction
+
+![Not Immediate Buyer Prediction](screenshots/prediction-not-immediate-buyer.png)
+
 ---
 
 ## 📌 Business Problem
@@ -31,6 +41,15 @@ The prediction classifies customers into:
 - ⚪ **Not Immediate Buyer**
 
 ---
+## 📊 Project Highlights
+
+- 475 customer records
+- Logistic Regression classification
+- 4 input features
+- 89.26% training accuracy
+- Real-time prediction interface
+- FastAPI backend
+- Responsive web application
 
 ## 🎯 Project Objective
 
@@ -43,10 +62,6 @@ The main objectives of this project are to:
 - Demonstrate the use of Logistic Regression in a real-world business scenario
 
 ---
-
-## 🧠 Machine Learning Model
-
-### Algorithm
 
 **Logistic Regression**
 
