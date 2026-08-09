@@ -1,5 +1,13 @@
 # 🚗 Hybrid Vehicle Purchase Prediction
 
+## 🚀 Live Demo
+
+Try the working web application:
+
+👉 **[Hybrid Vehicle Purchase Prediction – Live Demo](https://hybrid-predict-pro.lovable.app/)**
+
+Enter customer details such as Age, Education, Income and Vehicle Ownership to receive a hybrid vehicle purchase prediction.
+
 A Machine Learning web application that predicts whether a customer is likely to purchase a hybrid vehicle using Logistic Regression.
 
 The project was developed around a Tata Motors business problem: identifying potential customers for a new hybrid vehicle launch and supporting targeted marketing and sales decisions.
